@@ -65,5 +65,6 @@ public class HelloWorld {
                 break;
         }
         System.out.println("当前日期为"+c+"年第"+days+"天。");
+        System.out.println("当前日期为"+c+"年第"+days+"天。");
     }
 }
